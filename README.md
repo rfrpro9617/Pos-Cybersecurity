@@ -8,3 +8,4 @@ Anotações da minha Pós-Graduação em Cybersecurity.
 - Entrega confiável, ordenada e livre de erros.
 - Utilizado em aplicações críticas (navegação Web, envio de e-mails, transferência de arquivos).
 - Controle de congestionamento: ajusta dinamicamente sua janela de envio com base na capacidade do receptor e nas condições da rede.
+- Sacrifica desempenho em troca de confiabilidade e controle. Ideal para aplicações que não toleram perca de pacotes ou transmissão fora de ordem, mesmo que isso implique maior latência.
