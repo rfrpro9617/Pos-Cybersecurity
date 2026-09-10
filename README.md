@@ -44,4 +44,4 @@ Comportamento | Nenhum pacote seguinte é entregue até o perdido chegar (bloque
 Impacto no Vídeo | O vídeo congela totalmente (buffering) por 1 ou 2 segundos. | Uma linha de pixels pisca por \(\frac{1}{60}\) de segundo (imperceptível).
 Impacto no Jogo | Seu personagem trava no lugar e você sofre um "lag" enorme. | O jogo calcula a posição atualizada no pacote seguinte (um leve "teletransporte").
 
-# Segurança de dados em redes de computadores
+# Sistema de Nomes de Domínio (DNS): estrutura, funcionamento e tipos de consulta
