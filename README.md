@@ -43,3 +43,5 @@ O que ele faz? | Para tudo e pede o pacote de novo. | Ignora o erro e processa o
 Comportamento | Nenhum pacote seguinte é entregue até o perdido chegar (bloqueio). | A fila continua andando em tempo real.
 Impacto no Vídeo | O vídeo congela totalmente (buffering) por 1 ou 2 segundos. | Uma linha de pixels pisca por \(\frac{1}{60}\) de segundo (imperceptível).
 Impacto no Jogo | Seu personagem trava no lugar e você sofre um "lag" enorme. | O jogo calcula a posição atualizada no pacote seguinte (um leve "teletransporte").
+
+# Segurança de dados em redes de computadores
