@@ -44,4 +44,9 @@ Comportamento | Nenhum pacote seguinte é entregue até o perdido chegar (bloque
 Impacto no Vídeo | O vídeo congela totalmente (buffering) por 1 ou 2 segundos. | Uma linha de pixels pisca por \(\frac{1}{60}\) de segundo (imperceptível).
 Impacto no Jogo | Seu personagem trava no lugar e você sofre um "lag" enorme. | O jogo calcula a posição atualizada no pacote seguinte (um leve "teletransporte").
 
-# Sistema de Nomes de Domínio (DNS): estrutura, funcionamento e tipos de consulta
+# Protocolo HTTP: requisições, respostas e comunicação na web
+
+Viabiliza a comunicação cliente-servidor.
+Segue o modelo cliente-servidor. O cliente envia uma requisição e aguarda uma resposta (html, json, xml).
+Protocolo sem estado (stateless), o servidor não mantém informações sobre o cliente durante as interações. Isso reduz a carga do lado do servidor, mas exige o uso de técnicas como cookies, tokens e sessões para manter informações de autenticação, preferência e histórico.
+
