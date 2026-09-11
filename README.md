@@ -50,3 +50,5 @@ Viabiliza a comunicação cliente-servidor.
 Segue o modelo cliente-servidor. O cliente envia uma requisição e aguarda uma resposta (html, json, xml).
 Protocolo sem estado (stateless), o servidor não mantém informações sobre o cliente durante as interações. Isso reduz a carga do lado do servidor, mas exige o uso de técnicas como cookies, tokens e sessões para manter informações de autenticação, preferência e histórico.
 
+# Segurança e performance em aplicações web: HTTPS, cache e cookies
+
