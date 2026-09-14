@@ -52,3 +52,9 @@ Protocolo sem estado (stateless), o servidor não mantém informações sobre o 
 
 # Infraestrutura e Gerenciamento de Redes de Computadores
 
+## Redes de computadores LAN e WAN
+
+- LAN (Local area netword): cobrem áreas geograficamente limitadas, como residências, escritórios ou prédios.
+- WAN: distâncias maiores, como cidades ou países, e utilizam infraestrutura compartilhada.
+
+## Topologias, meios de transmissão e protocolos de comunicação
